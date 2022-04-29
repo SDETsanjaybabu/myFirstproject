@@ -13,5 +13,7 @@ public class Test1 {
 		System.out.println("bye bye");
 
 		System.out.println("bye");
+		
+		driver.close();
 	}
 }
